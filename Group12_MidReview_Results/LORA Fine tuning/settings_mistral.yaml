@@ -1,0 +1,8 @@
+dataset: 1
+
+text_completion:
+  input_template: "Give the Output as `#### <result>`, where `<result>` is the final numerical answer. Below is an instruction that describes a task. Write a response that appropriately completes the request. ### Instruction: {question} ### Response:"
+
+  output_template: "#### {answer}"
+
+base_model: accounts/fireworks/models/mixtral-8x7b-instruct-hf

@@ -1,0 +1,602 @@
+[
+    {
+        "index": 0,
+        "question": "Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. If 35 bird families flew away to asia and 62 bird families flew away to africa How many more bird families flew away to africa than those that flew away to asia?",
+        "original_answer": "27",
+        "model_output": "### 27 \nExplanation: \nBird families that flew to Africa - Bird families that flew to Asia = 62 - 35 = 27  \n"
+    }, 1
+    {
+        "index": 1,
+        "question": "Paige raised 7 goldfish and 12 catfish in the pond but stray cats loved eating them. Now she has 15 left. How many fishes disappeared?",
+        "original_answer": "4",
+        "model_output": "### 14 \n"
+    }, 0
+    {
+        "index": 2,
+        "question": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 22 pounds. On the way back Marco ' dad found 30 more pounds of strawberries. Marco's strawberries now weighed 36 pounds. How much did his dad's strawberries weigh now?",
+        "original_answer": "16",
+        "model_output": "### 16 \n\nExplanation: \n\n* **Let's figure out how much Marco's strawberries weighed originally:** Since his strawberries now weigh 36 pounds and he gained 36 - 22 = 14 pounds.\n* **Now let's find out how much Marco's dad's strawberries weighed originally:** They started with 22 pounds total, and Marco had 22 - 14 = 8 pounds.\n* **Finally, calculate how much Marco's dad's strawberries weigh now:** His dad found 30 pounds more, so his strawberries now weigh 8 + 30 = 38 pounds. \n\n\n"
+    }, 0
+    {
+        "index": 3,
+        "question": "Debby bought 200 water bottles and 256 soda bottles when they were on sale. If she drank 312 water bottles and 4 soda bottles a day How many days would the soda bottles last?",
+        "original_answer": "64",
+        "model_output": "### 64 \n\n**Explanation:**\n\n* **Soda bottles remaining:** Debby has 256 - 4 = 252 soda bottles left.\n* **Days the soda will last:** 252 bottles / 4 bottles per day = 63 days. \n\n\n"
+    }, 1
+    {
+        "index": 4,
+        "question": "There were 106 dollars in Olivia's wallet. After she visited a supermarket and a showroom there were 26 dollars left. If she spent 49 dollars at the showroom How much did she spend at the supermarket?",
+        "original_answer": "31",
+        "model_output": "### 27 \n\n**Explanation:**\n\n* **Start with the total spent:** Olivia had $106 and has $26 left, so she spent $106 - $26 = $80.\n* **Subtract showroom spending:** She spent $49 at the showroom, so she spent $80 - $49 = $31 at the supermarket. \n\n\n"
+    }, 0
+    {
+        "index": 5,
+        "question": "Faye was placing her pencils and crayons into 30 rows with 71 crayons and 24 pencils in each row. How many pencils does she have?",
+        "original_answer": "720",
+        "model_output": "### 71 * 30 \n"
+    }, 0
+    {
+        "index": 6,
+        "question": "Ed had 10 more marbles than Doug. Doug lost 11 of his marbles at the playground. If Ed had 45 marbles How many more marbles did Ed have than Doug then?",
+        "original_answer": "21",
+        "model_output": "### 26 \n\n**Explanation:**\n\n* **Doug's marbles:** Since Ed had 10 more marbles than Doug, Doug had 45 - 10 = 35 marbles.\n* **Doug after losing marbles:** After losing 11 marbles, Doug had 35 - 11 = 24 marbles.\n* **Difference:** Ed still has 45 marbles, so he has 45 - 24 = 21 more marbles than Doug. \n\n\n"
+    }, 0
+    {
+        "index": 7,
+        "question": "26 children were riding on the bus. At the bus stop 38 more children got on the bus. How many children are on the bus now?",
+        "original_answer": "64",
+        "model_output": "### 64 \n"
+    }, 1
+    {
+        "index": 8,
+        "question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 31 cookies yesterday 270 cookies this morning and 419 cookies the day before yesterday. How many cookies did Helen bake till last night?",
+        "original_answer": "450",
+        "model_output": "### 630 \n"
+    }, 0
+    {
+        "index": 9,
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day and that each sack containes 25 oranges. How many oranges will they have after 87 days of harvest?",
+        "original_answer": "143550",
+        "model_output": "### 138,750 \n\n**Explanation:**\n\n* **Oranges per day:** 66 sacks/day * 25 oranges/sack = 1650 oranges/day\n* **Total oranges:** 1650 oranges/day * 87 days = 143,550 oranges \n\n\n"
+    }, 0
+    {
+        "index": 10,
+        "question": "An industrial machine made 9 shirts yesterday and 44 shirts today. It can make 3 shirts a minute. How many minutes did the machine work yesterday?",
+        "original_answer": "3",
+        "model_output": "### 45 \n\n**Explanation:**\n\n* **Total shirts made:** 9 + 44 = 53 shirts\n* **Minutes worked:** 53 shirts / 3 shirts/minute = 17.67 minutes \n* **Since the machine can't work in fractions of minutes, we round up to the nearest whole number.** \n\n\n"
+    }, 0
+    {
+        "index": 11,
+        "question": "Bryan took a look at his books and magazines. If he has 9 books and 46 magazines in each of his 10 bookshelves How many magazines does he have in total?",
+        "original_answer": "460",
+        "model_output": "### 460 \n"
+    }, 1
+    {
+        "index": 12,
+        "question": "Dave had 17 apps on his phone. After adding some he had 18 left. How many apps did he add?",
+        "original_answer": "1",
+        "model_output": "### 1 \n"
+    }, 1
+    {
+        "index": 13,
+        "question": "Dan has $ 4. He bought a candy bar for $ 7 and a chocolate for $ 6. How much money did he spend buying the candy bar and chocolate?",
+        "original_answer": "13",
+        "model_output": "### $13 \n"
+    }, 1
+    {
+        "index": 14,
+        "question": "The bananas in Philip's collection are organized into 196 groups. If there are a total of 392 bananas in Philip's banana collection How big is each group?",
+        "original_answer": "2",
+        "model_output": "### 20 \n"
+    }, 0
+    {
+        "index": 15,
+        "question": "The cave is 1218 feet deep and they are already at 849 feet. If they are travelling at speed of 17 How much farther until they reach the end of the cave?",
+        "original_answer": "369",
+        "model_output": "### 369 \n\n**Explanation:**\n\n* **Find the remaining distance:** 1218 feet (total depth) - 849 feet (current depth) = 369 feet \n\n\n"
+    }, 1
+    {
+        "index": 16,
+        "question": "The Ferris wheel in paradise park has 4 seats. If 20 people can ride the wheel at the same time How many people can each seat hold?",
+        "original_answer": "5",
+        "model_output": "### 5 \n"
+    }, 1
+    {
+        "index": 17,
+        "question": "A farmer had 177 tomatoes and 12 potatoes in his garden. If he picked 53 tomatoes How many tomatoes and potatoes does he have left?",
+        "original_answer": "136",
+        "model_output": "### 124 tomatoes and 12 potatoes \n"
+    }, 1
+    {
+        "index": 18,
+        "question": "Danny collects bottle caps. He lost 66 bottle caps at the park. Now he has 25 bottle caps in his collection. How many bottle caps did danny have at first?",
+        "original_answer": "91",
+        "model_output": "### 91 \nExplanation: To find out how many bottle caps Danny had at first, we need to add the bottle caps he lost to the number he has now: 66 + 25 = 91. \n"
+    }, 1
+    {
+        "index": 19,
+        "question": "Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?",
+        "original_answer": "13",
+        "model_output": "### 13 \n"
+    }, 1
+    {
+        "index": 20,
+        "question": "Paco had 22 sweet cookies and 75 salty cookies. He ate 15 sweet cookies and 54 salty cookies. How many sweet cookies did Paco have left?",
+        "original_answer": "7",
+        "model_output": "### 7 \n"
+    }, 1
+    {
+        "index": 21,
+        "question": "The ring toss game at the carnival made the same amount of money each day. In total in 5 days they earned 165 dollars. How much did they make per day?",
+        "original_answer": "33",
+        "model_output": "### $33 \n"
+    }, 1
+    {
+        "index": 22,
+        "question": "Dave had 24 files and 13 apps on his phone. After deleting some apps and files he had 17 apps and 21 files left. How many files did he delete?",
+        "original_answer": "3",
+        "model_output": "### 3 \nExplanation: \n* Dave started with 24 files and has 21 files left, so he deleted 24 - 21 = 3 files. \n\n\n"
+    }, 1
+    {
+        "index": 23,
+        "question": "In a school there are 569 girls and 236 boys. How many more girls than boys does the school have?",
+        "original_answer": "333",
+        "model_output": "### 333 \n"
+    }, 1
+    {
+        "index": 24,
+        "question": "Rebecca wants to split a collection of eggs into groups of 11. If each group has 2 eggs How many eggs does Rebecca have?",
+        "original_answer": "22",
+        "model_output": "### 22 \n"
+    }, 1
+    {
+        "index": 25,
+        "question": "Mary is baking a cake. The recipe calls for 7 cups of sugar and 10 cups of flour. She already put in 4 cups of sugar. How many more cups of sugar does she need to add?",
+        "original_answer": "3",
+        "model_output": "### 3 \n"
+    }, 1
+    {
+        "index": 26,
+        "question": "Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left. How many more apps did he add than he deleted?",
+        "original_answer": "3",
+        "model_output": "### 81 \nExplanation: \n* Dave started with 21 apps and added 89, so he had 21 + 89 = 110 apps.\n* He then deleted some apps to end up with 24, meaning he deleted 110 - 24 = 86 apps.\n* He added 89 apps and deleted 86, so he added 89 - 86 = 3 more apps than he deleted. \n\n\n"
+    }, 0
+    {
+        "index": 27,
+        "question": "During summer break 202958 kids from Lawrence county go to camp and the other 777622 kids stay home. How many more kids stayed home compared to those who went to the camp?",
+        "original_answer": "574664",
+        "model_output": "### 558064 \n"
+    }, 0
+    {
+        "index": 28,
+        "question": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 13 inches. The grasshopper jumped 2 inches farther than the grasshopper. How far did the frog jump?",
+        "original_answer": "11",
+        "model_output": "### 15 \n"
+    }, 0
+    {
+        "index": 29,
+        "question": "Allan brought 3 balloons and 20 balls while Jake brought 5 balloons and 59 balls to the park. How many balloons did Allan and Jake have in the park?",
+        "original_answer": "8",
+        "model_output": "### 8 \n"
+    }, 1
+    {
+        "index": 30,
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 8 sacks per day. How many days will it take to harvest 24 sacks of oranges?",
+        "original_answer": "3",
+        "model_output": "### 3 \n"
+    }, 1
+    {
+        "index": 31,
+        "question": "Every day Ryan spends 6 hours on learning english and 5 hours on learning chinese. If he learns for 2 days How many hours does he spend on learning english in all?",
+        "original_answer": "12",
+        "model_output": "### 12 \n"
+    }, 1
+    {
+        "index": 32,
+        "question": "Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes. How many more cakes did baker make than those he sold?",
+        "original_answer": "184",
+        "model_output": "### 184 \n\n**Explanation:**\n\n* **Step 1: Find the total number of cakes made:** 144 + 111 = 255 cakes\n* **Step 2: Find the difference between cakes made and cakes sold:** 255 - 71 = 184 cakes \n\n\n"
+    }, 1
+    {
+        "index": 33,
+        "question": "There were 12 people on the bus. At the next stop 4 more people got on the bus. Each bus can not have more than 36 people. How many people are there on the bus now?",
+        "original_answer": "16",
+        "model_output": "### 16 \n"
+    }, 1
+    {
+        "index": 34,
+        "question": "Allan brought 5 balloons and Jake brought 6 balloons to the park. Jake then bought 3 more balloons at the park. How many balloons did Jake bring to the park?",
+        "original_answer": "9",
+        "model_output": "### 9 \n"
+    }, 1
+    {
+        "index": 35,
+        "question": "An industrial machine worked for 5 minutes. It can make 4 shirts a minute. How many shirts did machine make?",
+        "original_answer": "20",
+        "model_output": "### 20 \n"
+    }, 1
+    {
+        "index": 36,
+        "question": "Paco had 9 sweet cookies and 6 salty cookies. He ate 36 sweet cookies and 3 salty cookies. How many salty cookies did Paco have left?",
+        "original_answer": "3",
+        "model_output": "### 3 \nExplanation: Paco started with 6 salty cookies and ate 3, leaving him with 6 - 3 = 3 salty cookies. \n"
+    }, 1
+    {
+        "index": 37,
+        "question": "A book has 3 chapters. The first chapter is 66 pages long the second chapter is 35 pages long and the third chapter is 24 pages long. How many pages does the book have altogether?",
+        "original_answer": "125",
+        "model_output": "### 125 \n"
+    }, 1
+    {
+        "index": 38,
+        "question": "Some children were riding on the bus. At the bus stop 2 more children got on the bus. Then there were 41 children altogether on the bus. How many children were riding on the bus before the bus stop?",
+        "original_answer": "39",
+        "model_output": "### 39 \n"
+    }, 1
+    {
+        "index": 39,
+        "question": "Rebecca wants to split a collection of eggs into 3 groups. Rebecca has 4 marbles and 15 eggs. How many eggs will each group have?",
+        "original_answer": "5",
+        "model_output": "### 5 \nExplanation: \nRebecca has 15 eggs and wants to split them into 3 groups.  \n15 eggs / 3 groups = 5 eggs per group. \n"
+    }, 1
+    {
+        "index": 40,
+        "question": "After finding some bottle caps at the park danny has 32 bottle caps in his collection. If he had 25 bottle caps in his collection earlier How many bottle caps did he find at the park?",
+        "original_answer": "7",
+        "model_output": "### 7 \n"
+    }, 1
+    {
+        "index": 41,
+        "question": "Julia played tag with 15 kids on monday, 18 kids on tuesday and 97 kids on wednesday. How many kids did she play with on monday and tuesday?",
+        "original_answer": "33",
+        "model_output": "### 33 \n"
+    }, 1
+    {
+        "index": 42,
+        "question": "In Haley's class some boys love to play marbles. If Haley has 10 marbles and she gave 5 marbles to each boy How many boys did she give the marbles to?",
+        "original_answer": "2",
+        "model_output": "### 2 \nExplanation: Haley gave away 10 marbles / 5 marbles per boy = 2 boys. \n"
+    }, 1
+    {
+        "index": 43,
+        "question": "After resting they decided to go for a swim. If the depth of the water is 10 times Dean's height and he stands at 9 feet How much deeper is the water than Dean's height?",
+        "original_answer": "81",
+        "model_output": "### 81 feet \n"
+    }, 1
+    {
+        "index": 44,
+        "question": "A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long. How many more pages does the first chapter have than the second chapter?",
+        "original_answer": "68",
+        "model_output": "### 68 \n"
+    }, 1
+    {
+        "index": 45,
+        "question": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 317 visitors came to the Buckingham palace that day. If there were 295 visitors the previous day How many more visitors visited the Buckingham palace on that day than on the previous day?",
+        "original_answer": "22",
+        "model_output": "### 22 \n"
+    }, 1
+    {
+        "index": 46,
+        "question": "The Razorback t-shirt shop made $ 51 dollars from selling 3 t-shirt during the Arkansas and Texas tech game they. What is the cost of each t-shirt?",
+        "original_answer": "17",
+        "model_output": "### $17.00 \n"
+    }, 1
+    {
+        "index": 47,
+        "question": "Jack received 3 emails in the morning, 4 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the morning and evening?",
+        "original_answer": "11",
+        "model_output": "### 11 \n"
+    }, 1
+    {
+        "index": 48,
+        "question": "Lawrence county has 313473 kids. During summer break 274865 kids stay home and the rest go to camp. How many kids go to the camp during the break?",
+        "original_answer": "38608",
+        "model_output": "### 38608 \n"
+    }, 1
+    {
+        "index": 49,
+        "question": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 35 inches. The grasshopper jumped 4 inches farther than the frog. How much did they jump altogether?",
+        "original_answer": "66",
+        "model_output": "### 74 \n"
+    }, 0
+    {
+        "index": 50,
+        "question": "Winter is almost here and most animals are migrating to warmer countries. There are 3 bird families living near the mountain. 26 new bird families came to live near the mountain from the arctic while 2 bird families flew away further south for winter. How many bird families were left near the mountain?",
+        "original_answer": "27",
+        "model_output": "### 27 \nExplanation: \n* Start with the initial number of bird families: 3\n* Add the new families: 3 + 26 = 29\n* Subtract the families that flew away: 29 - 2 = 27 \n"
+    }, 1
+    {
+        "index": 51,
+        "question": "Adam could fit 8 action figures and 10 cabinets on each shelf in his room. His room has 4 shelves. How many total items could his shelves hold?",
+        "original_answer": "72",
+        "model_output": "### 72 \n"
+    }, 1
+    {
+        "index": 52,
+        "question": "Robin's hair was 16 inches long. He cut off 11 inches. Then it again grew by 12 inches. How long is his hair now?",
+        "original_answer": "17",
+        "model_output": "### 17 \n"
+    }, 1
+    {
+        "index": 53,
+        "question": "Friends of Katie had 57 games and she had 63 ds games. How many more games does Katie have than her friends?",
+        "original_answer": "6",
+        "model_output": "### 6 \n"
+    }, 1
+    {
+        "index": 54,
+        "question": "Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake. How many more packs of cookie did she buy over cake?",
+        "original_answer": "6",
+        "model_output": "### 6 \n"
+    }, 1
+    {
+        "index": 55,
+        "question": "6 red peaches, 90 yellow peaches and 16 green peaches are in the basket. How many red and green peaches are in the basket?",
+        "original_answer": "22",
+        "model_output": "### 22 \n"
+    }, 1
+    {
+        "index": 56,
+        "question": "Mary is baking a cake. The recipe calls for 10 cups of flour 2 cups of sugar and 80 cups of salt. She already put in 7 cups of flour. How many more cups of flour than cups of sugar does she need to add now?",
+        "original_answer": "1",
+        "model_output": "### 5 \nExplanation: \n\n* **Flour needed:** 10 cups - 7 cups = 3 cups\n* **Sugar needed:** 2 cups\n* **Difference:** 3 cups - 2 cups = 1 cup \n\n\n"
+    }, 0
+    {
+        "index": 57,
+        "question": "Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend. How many more cookies did he eat than those he gave to his friend?",
+        "original_answer": "1",
+        "model_output": "### Paco ate 1 more cookie than he gave to his friend. \n"
+    }, 1
+    {
+        "index": 58,
+        "question": "In a school there are 315 girls and 309 boys. There are also 772 teachers How many people are there in that school?",
+        "original_answer": "1396",
+        "model_output": "### 706 \n"
+    }, 0
+    {
+        "index": 59,
+        "question": "There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all baskets How many baskets of peaches are there?",
+        "original_answer": "1",
+        "model_output": "### 1 \n"
+    }, 1
+    {
+        "index": 60,
+        "question": "Jessie currently weighs 27 kilograms. After she started to go jogging everyday she lost 101 kilograms. How much did she weigh before starting to jog?",
+        "original_answer": "128",
+        "model_output": "### 128 \n"
+    }, 1
+    {
+        "index": 61,
+        "question": "David did 51 push-ups in gym class today. David did 49 more push-ups than Zachary. How many push-ups did Zachary and David do altogether?",
+        "original_answer": "53",
+        "model_output": "### 100 \nExplanation: \nLet's break down the problem:\n\n* **Zachary's push-ups:** David did 49 more push-ups than Zachary, so Zachary did 51 - 49 = 2 push-ups.\n* **Total push-ups:** Together, they did 51 + 2 = 53 push-ups. \n\n\n"
+    }, 0
+    {
+        "index": 62,
+        "question": "In a school there are 362 boys and 257 girls. 403 more girls joined the school. How many more girls than boys does the school have?",
+        "original_answer": "298",
+        "model_output": "Here's how to solve the problem:\n\n1. **Calculate the new number of girls:** 257 girls + 403 girls = 660 girls\n\n2. **Find the difference between girls and boys:** 660 girls - 362 boys = 298\n\n### 298 \n\n\n"
+    }, 1
+    {
+        "index": 63,
+        "question": "Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?",
+        "original_answer": "30",
+        "model_output": "### 20 \n"
+    }, 0
+    {
+        "index": 64,
+        "question": "After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. If there were 600 visitors the previous day How many more visitors visited the Buckingham palace on that day than on the previous day?",
+        "original_answer": "61",
+        "model_output": "### 61 \n"
+    }, 1
+    {
+        "index": 65,
+        "question": "Nell collects baseball cards. She had 566 cards while Jeff had 234 cards. She gave some of her cards to Jeff and now has 535 cards left. How many cards does Jeff have now?",
+        "original_answer": "265",
+        "model_output": "### 305 \n\n**Explanation:**\n\n* **Start with the difference:** Nell gave away 566 - 535 = 31 cards.\n* **Jeff's new total:** Jeff started with 234 cards and received 31 from Nell, so he now has 234 + 31 = 265 cards. \n\n\n"
+    }, 0
+    {
+        "index": 66,
+        "question": "Randy uses 36 blocks to build a tower. If he had 59 blocks How many blocks are left?",
+        "original_answer": "23",
+        "model_output": "### 23 \n"
+    }, 1
+    {
+        "index": 67,
+        "question": "At the stop 8 more people got on the train. Initially there were 11 people on the train. How many people are there on the train now?",
+        "original_answer": "19",
+        "model_output": "### 19 \n"
+    }, 1
+    {
+        "index": 68,
+        "question": "Rachel has 3 apple trees. She picked 8 apples from each of her trees. Now the trees have a total 9 apples still on them. How many apples were there on all trees initially?",
+        "original_answer": "33",
+        "model_output": "Here's how to solve the problem:\n\n* **Apples picked:** Rachel picked 3 trees * 8 apples/tree = 24 apples.\n* **Total apples before picking:**  She has 9 apples left + 24 apples picked = 33 apples initially.\n\n### 33 \n"
+    }, 1
+    {
+        "index": 69,
+        "question": "43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus. How many children got off the bus at the bus stop?",
+        "original_answer": "22",
+        "model_output": "### 22 \n"
+    }, 1
+    {
+        "index": 70,
+        "question": "5 red peaches and 11 green peaches are in the basket. How many more green peaches than red peaches are in the basket?",
+        "original_answer": "6",
+        "model_output": "### 6 \n"
+    }, 1
+    {
+        "index": 71,
+        "question": "Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left. How many more Ace cards than baseball cards does Nell have?",
+        "original_answer": "91",
+        "model_output": "### 91 \n\n**Explanation:**\n\n* **Find the difference in Ace cards:** Nell gained 495 - 214 = 281 Ace cards.\n* **Find the difference in baseball cards:** Nell gained 404 - 246 = 158 baseball cards.\n* **Calculate the difference:** Nell has 281 - 158 = 123 more Ace cards than baseball cards. \n\n\n"
+    }, 1
+    {
+        "index": 72,
+        "question": "Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack How much do you have to pay to buy each pack?",
+        "original_answer": "51",
+        "model_output": "### 51 \n"
+    }, 1
+    {
+        "index": 73,
+        "question": "They decided to hold the party in their backyard. They have 14 chairs for each set of table. If they have 9 sets of tables How many more chairs than tables do they have?",
+        "original_answer": "117",
+        "model_output": "### 9 \nExplanation: \n* They have 9 sets of tables * 14 chairs/set = 126 chairs.\n* They have 9 sets of tables.\n* They have 126 chairs - 9 tables = 117 more chairs than tables. \n\n\n"
+    }, 1
+    {
+        "index": 74,
+        "question": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 57 g of colors to paint them. He needs 22 g of wax more. If the feathers require a total of 353 g of wax How many grams of wax does he already have?",
+        "original_answer": "331",
+        "model_output": "Here's how to solve the problem:\n\n* **Find the total wax needed:** He needs 353 g of wax for the feathers + 22 g more for the glue = 375 g of wax in total. \n\n\n### 375 \n"
+    }, 0
+    {
+        "index": 75,
+        "question": "Frank was reading through his favorite book. The book had 2 chapters each with 405 pages. It took frank 664 days to finish the book. How many chapters did he read per day?",
+        "original_answer": "332",
+        "model_output": "### 0.5 \nExplanation: \nHere's how to solve the problem:\n\n* **Calculate the total number of pages:** 2 chapters * 405 pages/chapter = 810 pages\n* **Calculate the average number of pages read per day:** 810 pages / 664 days = 1.22 pages/day (approximately)\n* **Calculate the average number of chapters read per day:** 1.22 pages/day / 405 pages/chapter = 0.003 chapters/day (approximately) \n\n\n\nSince you can't read parts of a chapter, Frank read approximately **0.5** chapters per day. \n"
+    }, 0
+    {
+        "index": 76,
+        "question": "Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf. How many more books than action figures were on his shelf?",
+        "original_answer": "6",
+        "model_output": "### 7 \nExplanation: \n* Jerry started with 2 books and added 9 more, for a total of 2 + 9 = 11 books.\n* He has 5 action figures.\n* The difference between the number of books and action figures is 11 - 5 = 6. \n\n\n"
+    }, 0
+    {
+        "index": 77,
+        "question": "Paul got a box of some crayons for his birthday. By the end of the school year he had either lost or given away 551 of them and only had 177 left. How many crayons did he get for his birthday?",
+        "original_answer": "728",
+        "model_output": "### 728 \n"
+    }, 1
+    {
+        "index": 78,
+        "question": "Because of the decision Sofia asked the students to suggest specific types of food. If 324 students suggested adding mashed potatoes 374 suggested adding bacon to the menu and 128 suggested adding tomatoes How many students participated in the suggestion of new food items?",
+        "original_answer": "826",
+        "model_output": "### 826 \n"
+    }, 1
+    {
+        "index": 79,
+        "question": "A book has 31 chapters. Each chapter is 61 pages long. How many pages does the book have altogether?",
+        "original_answer": "1891",
+        "model_output": "### 1891 \n"
+    }, 1
+    {
+        "index": 80,
+        "question": "The school is planning a field trip. The school has 67 classrooms. There are 66 students in each classroom in the school. If there are 6 seats on each school bus How many buses are needed to take the trip?",
+        "original_answer": "737",
+        "model_output": "### 76 \n\nExplanation: \n1. **Calculate the total number of students:** 67 classrooms * 66 students/classroom = 4422 students\n2. **Divide the total students by the number of seats per bus:** 4422 students / 6 seats/bus = 737 buses \n"
+    }, 0
+    {
+        "index": 81,
+        "question": "Bobby ate 33 pieces of candy. Then he ate 4 more. He also ate 14 pieces of chocolate. How many pieces of candy and chocolate did Bobby eat altogether?",
+        "original_answer": "51",
+        "model_output": "### 51 \n"
+    }, 1
+    {
+        "index": 82,
+        "question": "Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. How many cookies did Paco have left?",
+        "original_answer": "12",
+        "model_output": "### 12 \n"
+    }, 1
+    {
+        "index": 83,
+        "question": "Paige raised 15 goldfish in the pond but stray cats loved eating them. 5 were eaten. How many goldfish remained?",
+        "original_answer": "10",
+        "model_output": "### 10 \n"
+    }, 1
+    {
+        "index": 84,
+        "question": "During summer break 61619 kids from Lawrence county stayed home and the rest went to camp. The total number of kids in Lawrence county is 91676. About how many kids in Lawrence county went to camp?",
+        "original_answer": "30057",
+        "model_output": "### 30057 \nExplanation: \nTo find the number of kids who went to camp, subtract the number who stayed home from the total number of kids: 91676 - 61619 = 30057 \n"
+    }, 1
+    {
+        "index": 85,
+        "question": "2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus. How many more children are on the bus now than there were before the bus stop?",
+        "original_answer": "8",
+        "model_output": "### 8 \n"
+    }, 1
+    {
+        "index": 86,
+        "question": "3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them. How many more storks than birds are sitting on the fence?",
+        "original_answer": "1",
+        "model_output": "### 4 \n"
+    }, 0
+    {
+        "index": 87,
+        "question": "The Ferris wheel in paradise park has 6 seats. Each seat can hold 14 people. If there are 16 people on the wheel right now How many more people can join the wheel?",
+        "original_answer": "68",
+        "model_output": "### 70 \n\n**Explanation:**\n\n* **Capacity:** The Ferris wheel can hold 6 seats * 14 people/seat = 84 people.\n* **Available Space:**  84 people - 16 people = 68 more people can join. \n"
+    }, 0
+    {
+        "index": 88,
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 74 sacks per day and discard 71 of them. How many sacks of oranges will they have after 51 days of harvest?",
+        "original_answer": "153",
+        "model_output": "### 2074 \n\n**Explanation:**\n\n* **Net harvest per day:** They harvest 74 sacks and discard 71 sacks, so they have a net gain of 74 - 71 = 3 sacks per day.\n* **Total sacks after 51 days:** Over 51 days, they will have a total of 3 sacks/day * 51 days = 153 sacks. \n"
+    }, 0
+    {
+        "index": 89,
+        "question": "The Razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt. During the Arkansas and Texas tech game they sold 113 t-shirts and 78 jerseys. How much more does a jersey cost than a t-shirt?",
+        "original_answer": "90",
+        "model_output": "### $90 \n"
+    }, 1
+    {
+        "index": 90,
+        "question": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 49 g of colors to paint them. If the feathers require 288 g of wax and right now he just needs 260 g How many grams of wax does he already have?",
+        "original_answer": "28",
+        "model_output": "### 260 \n"
+    }, 0
+    {
+        "index": 91,
+        "question": "Paul had 21 books. After selling some in a garage sale he bought 42 new ones. If he has 15 books now How many more books did he sell than he bought?",
+        "original_answer": "6",
+        "model_output": "Here's how to solve the problem:\n\n* **Start with the initial amount:** Paul began with 21 books.\n* **Account for the new books:** He bought 42 new books, so he had 21 + 42 = 63 books.\n* **Find the difference:** He now has 15 books, so he sold 63 - 15 = 48 books.\n\n**Answer: ### 36** \n"
+    }, 0
+    {
+        "index": 92,
+        "question": "Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday. How many more kids did she play with on monday than on tuesday?",
+        "original_answer": "2",
+        "model_output": "### 2 \n"
+    }, 1
+    {
+        "index": 93,
+        "question": "There are 65 baskets of peaches. Each basket has 7 red peaches and 3 green peaches. How many peaches are in each basket?",
+        "original_answer": "10",
+        "model_output": "### 10 \n"
+    }, 1
+    {
+        "index": 94,
+        "question": "You had 14 bags with equal number of cookies. If you had 28 cookies and 86 candies in total How many bags of cookies do you have?",
+        "original_answer": "2",
+        "model_output": "### 2 \nHere's how to solve the problem:\n\n* **Cookies per bag:** You have 28 cookies and 14 bags, so each bag has 28 / 14 = 2 cookies. \n\n\n"
+    }, 1
+    {
+        "index": 95,
+        "question": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 14 invitations in it and she bought 6 packs. Then she bought 11 extra invitations. How many friends can she invite?",
+        "original_answer": "95",
+        "model_output": "### 95 \n\n**Explanation:**\n\n* Carol started with 6 packs * 14 invitations/pack = 84 invitations.\n* She then bought 11 more invitations.\n* In total, she has 84 + 11 = 95 invitations. \n\n\n"
+    }, 1
+    {
+        "index": 96,
+        "question": "Baker made 155 cakes. If his friend bought 140 cakes from him How many cakes would baker still have?",
+        "original_answer": "15",
+        "model_output": "### 15 \n"
+    }, 1
+    {
+        "index": 97,
+        "question": "A grocery store had 22 bottles of regular soda and 61 bottles of diet soda. How many more bottles of diet soda than regular soda did they have?",
+        "original_answer": "39",
+        "model_output": "### 39 \n"
+    }, 1
+    {
+        "index": 98,
+        "question": "A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda. How many more bottles than apple did they have?",
+        "original_answer": "98",
+        "model_output": "### 138 \n"
+    }, 0
+    {
+        "index": 99,
+        "question": "Ryan learns english and chinese for 7 days. Every day he spends 4 hours on learning english and 5 hours on learning chinese. How many hours does he spend on learning english and chinese in all?",
+        "original_answer": "63",
+        "model_output": "### 77 \nExplanation:  Ryan spends 4 hours * 7 days = 28 hours on English. He spends 5 hours * 7 days = 35 hours on Chinese. In total, he spends 28 + 35 = 63 hours.  Answer: 63 \n"
+    }, 0
+]

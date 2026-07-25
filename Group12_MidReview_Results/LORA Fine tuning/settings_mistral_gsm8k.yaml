@@ -1,0 +1,8 @@
+dataset: 1
+
+text_completion:
+  input_template: "### QUESTION: {question} ### Explain your reasoning step by step and provide the final answer in the format: #### <result>."
+
+  output_template: "{answer}"
+
+base_model: accounts/fireworks/models/mixtral-8x7b-instruct-hf

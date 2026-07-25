@@ -1,0 +1,17 @@
+dataset: 1
+
+text_completion:
+  # Input template for the GSM8K dataset.
+  input_template: "### QUESTION: {question} ### Explain your reasoning step by step and provide the final answer in the format: #### <result>."
+
+  # Output template with reasoning and final answer.
+  output_template: "{answer}"
+
+# The Fireworks model name of the base model.
+base_model: accounts/fireworks/models/llama-v3p1-8b-instruct
+
+epochs: 5 # Number of training epochs
+learning_rate: 0.001 # Learning rate for the optimizer
+batch_size: 16 # Batch size during training
+lora_rank: 8 # LoRA rank for fine-tuning
+evaluation_split: 0.1 # Use 10% of the dataset for evaluation
