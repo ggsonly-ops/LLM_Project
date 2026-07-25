@@ -2,7 +2,7 @@
 
 **A study of reasoning techniques for Large Language Models on grade-school math word problems.**
 
-Group 12 · Aayush Ranjan (2021003) · Arnav Agarwal (2021235) · Harshvardhan Singh (2021052) · Parthiv Dholaria (2021078) · Pulkit Nargotra (2021273) · Utsav Garg (2021108)
+Aryan Kalpesh Pancholi
 
 ---
 
